@@ -1,1 +1,7 @@
-../requirements.txt
+awscli
+boto3
+paramiko
+pyyaml
+tzlocal
+portpicker
+tensorflow
